@@ -1,4 +1,10 @@
 
+### Link to Cover Letter
+https://docs.google.com/document/d/1ghqt5_y5cIRYRof5v8AhrdtAK_9ikVhfaD8KYHQ6ZqI/edit?usp=sharing
+
+
+
+
 
 
 # [CDV04] Custom Cover Letter for Junior React Developer Role
